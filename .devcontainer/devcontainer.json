@@ -1,0 +1,10 @@
+{
+	"name": "Haskell hello world",
+	"dockerFile": "Dockerfile",
+	// "appPort": ["9000", "8080:8080"],
+	"extensions": [
+		"justusadam.language-haskell",
+		"jcanero.hoogle-vscode",
+		"vans.haskero"
+	]
+}
